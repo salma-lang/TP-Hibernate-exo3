@@ -1,4 +1,4 @@
-Exercice 3 - Gestion de projets et tâches
+## Exercice 3 - Gestion de projets et tâches
 
 ## 1. Création des entités
 Dans ce projet, vous allez modéliser des projets et des tâches :
